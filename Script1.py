@@ -1,0 +1,5 @@
+firstname=input("¿cual es tu nombre? ")
+lastname=input("¿cual es tu apellido? ")
+asignature=input("¿cual es tu asignatura? ")
+sede=input("¿cual es tu sede de inacap? ")
+print("tu nombre es " + firstname, lastname + ", tu asignatura es " + asignature +" en la sede " + sede)
